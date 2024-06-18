@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a New web project
 - 📫 How to reach me https://www.linkedin.com/in/khushdeepbrar/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im the best Aatrox player in north america.
+- ⚡ Fun fact: Im the best Aatrox player in North America.
 
 <!---
 Khushdeep1337/Khushdeep1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
