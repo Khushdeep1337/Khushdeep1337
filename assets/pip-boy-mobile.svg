@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="640" viewBox="0 0 480 640" role="img" aria-labelledby="title description">
+  <title id="title">Pip-Boy 1337 — Khushdeep's personnel file</title>
+  <desc id="description">Mobile green phosphor terminal with an illustrated Sikh vault technician wearing a neatly wrapped turban and rectangular glasses, with a short beard. Toolkit labels surround the character: Python, C#, SQL, TypeScript, Docker. Khushdeep, he/him, @Khushdeep1337. GitHub snapshot from 2026-11-03: 96 authored commits and 39,013 lines changed (additions plus deletions) across default branches of owned public non-fork repositories; 15 public repositories overall. Merge and empty commits are excluded.</desc>
+  <defs>
+    <linearGradient id="case" x2=".3" y2="1"><stop stop-color="#4c5141"/><stop offset=".5" stop-color="#282e25"/><stop offset="1" stop-color="#404536"/></linearGradient>
+    <radialGradient id="glass" cx=".45" cy=".35" r=".8"><stop stop-color="#203522"/><stop offset="1" stop-color="#09120e"/></radialGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3.5H4" stroke="#000" stroke-opacity=".19"/></pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="screen"><rect x="19" y="19" width="442" height="602" rx="28"/></clipPath>
+  </defs>
+  <rect x="2" y="2" width="476" height="636" rx="41" fill="url(#case)" stroke="#636650" stroke-width="2"/>
+  <rect x="13" y="13" width="454" height="614" rx="34" fill="#0b100d"/>
+  <rect x="19" y="19" width="442" height="602" rx="28" fill="url(#glass)" stroke="#69725a" stroke-opacity=".45"/>
+  <g clip-path="url(#screen)" font-family="Consolas, 'Liberation Mono', monospace" fill="#a5ff88">
+    <text x="40" y="54" font-size="15" letter-spacing="1.6" fill="#a7c69a">PIP-BOY / MODEL 1337</text>
+    <path d="M40 105H53V73H143V105H440" fill="none" stroke="#8fff71" stroke-width="2"/>
+    <text x="98" y="97" font-size="23" font-weight="700" text-anchor="middle" filter="url(#glow)">STAT</text>
+    <text x="213" y="97" font-size="23" fill="#a7c69a">DATA</text>
+    <text x="341" y="97" font-size="23" fill="#a7c69a">RADIO</text>
+    <text x="40" y="137" font-size="15" letter-spacing="1.4" fill="#a7c69a">PERSONNEL FILE / K-1337</text>
+
+    <!-- Compact portrait keeps the name and stats readable on small screens. -->
+    <g transform="translate(185 160)" stroke="#15351c" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M19 84Q54 68 90 84L100 116H9Z" fill="#79dc6e"/>
+      <path d="M47 98H62L65 116H47Z" fill="#b0ff91"/>
+      <path d="M31 82L44 98L54 102L68 96L78 82M25 90L30 115M84 90L79 115" fill="none"/>
+      <path d="M37 65L36 85L52 99L71 85L69 63Z" fill="#a5ff89"/>
+      <path d="M17 27Q18 4 48 2Q80 1 88 25L85 54Q80 77 56 81Q31 80 23 59L17 51Q8 51 10 41Q11 36 18 38Z" fill="#a5ff89"/>
+      <path d="M12 41Q3 26 13 11Q26-7 50-6Q76-7 88 12Q97 27 89 41L78 42Q66 31 57 27Q37 39 18 44Z" fill="#8cf472"/>
+      <path d="M9 25Q39 20 72 1M10 34Q45 27 82 12M18 44Q53 33 90 25" fill="none" stroke-width="2.2"/>
+      <path d="M35 39L41 37M65 35L72 38M41 45V50M70 43V48M55 46L53 58H59M40 89L47 100V115M69 88L62 100V115" fill="none"/>
+      <path d="M25 60L34 68L47 65Q53 62 58 67Q67 63 76 66L83 59L79 73L68 82L57 85L44 82L33 75L27 68Z" fill="#234b29" stroke-width="2"/>
+      <path d="M39 65Q55 72 72 62Q65 76 55 76Q45 74 39 65Z" fill="#a5ff89" stroke-width="2.2"/>
+      <g fill="none" stroke-width="3">
+        <rect x="26" y="39" width="27" height="18" rx="1.3"/>
+        <rect x="59" y="37" width="27" height="18" rx="1.3"/>
+        <path d="M53 45Q56 42 59 44M20 41L26 43M86 41L90 39"/>
+      </g>
+    </g>
+    <g font-size="18" text-anchor="middle">
+      <g fill="#142318" stroke="#94ff75" stroke-opacity=".65">
+        <rect x="75" y="176" width="70" height="30" rx="2"/>
+        <rect x="329" y="176" width="70" height="30" rx="2"/>
+        <rect x="36" y="218" width="130" height="30" rx="2"/>
+        <rect x="322" y="218" width="116" height="30" rx="2"/>
+        <rect x="322" y="260" width="116" height="30" rx="2"/>
+      </g>
+      <path d="M146 191H168M306 191H328M167 233H181M304 233H321M304 275H321" fill="none" stroke="#94ff75" stroke-opacity=".6"/>
+      <text x="110" y="198">C#</text>
+      <text x="364" y="198">SQL</text>
+      <text x="101" y="240">TypeScript</text>
+      <text x="380" y="240">Docker</text>
+      <text x="380" y="282">Python</text>
+    </g>
+
+    <text x="240" y="333" font-size="39" font-weight="700" text-anchor="middle" filter="url(#glow)">KHUSHDEEP</text>
+    <text x="240" y="363" font-size="21" text-anchor="middle">@Khushdeep1337</text>
+    <text x="240" y="390" font-size="16" text-anchor="middle" fill="#a7c69a">DEVELOPER / HE · HIM</text>
+    <path d="M40 405H440" stroke="#a5ff88" stroke-opacity=".25"/>
+    <text x="240" y="436" font-size="21" text-anchor="middle">SOFTWARE ENGINEERING</text>
+    <text x="240" y="464" font-size="21" text-anchor="middle">BIOINFORMATICS / NLP</text>
+
+    <path d="M40 488H440" stroke="#8fff71" stroke-width="1.5"/>
+    <text id="stats-commits" x="103" y="530" font-size="34" font-weight="700" text-anchor="middle">96</text>
+    <text id="stats-lines" x="240" y="530" font-size="32" font-weight="700" text-anchor="middle">39,013</text>
+    <text id="stats-repos" x="377" y="530" font-size="34" font-weight="700" text-anchor="middle">15</text>
+    <text x="103" y="557" font-size="20" text-anchor="middle">COMMITS</text>
+    <text x="240" y="553" font-size="20" text-anchor="middle">LINES</text>
+    <text x="240" y="575" font-size="20" text-anchor="middle">CHANGED</text>
+    <text x="377" y="553" font-size="20" text-anchor="middle">PUBLIC</text>
+    <text x="377" y="575" font-size="20" text-anchor="middle">REPOS</text>
+    <path d="M173 506V576M307 506V576" stroke="#a5ff88" stroke-opacity=".25"/>
+    <text id="stats-updated" x="240" y="604" font-size="17" text-anchor="middle" fill="#a7c69a">PUBLIC REPO SNAPSHOT / 2026-11-03</text>
+    <rect x="19" y="19" width="442" height="602" fill="url(#scanlines)" pointer-events="none"/>
+  </g>
+</svg>
