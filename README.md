@@ -53,7 +53,7 @@ An EEG-based communication experiment exploring the classification of "yes" and 
 
 ## Contact
 
-Find me on **[LinkedIn](https://www.linkedin.com/in/khushdeepbrar/)** — let's talk software, research, or a project worth building.
+Find me on **[LinkedIn](https://www.linkedin.com/in/khushdeepbrar/)** let's talk software, research, or projects you want to build.
 
 ---
 
